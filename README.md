@@ -55,7 +55,7 @@
 </table>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/ahmad-khan"><img src="https://img.shields.io/badge/-Ahmad%20Khan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ahmad-khan-17a102174"><img src="https://img.shields.io/badge/-Ahmad%20Khan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:akler5291@gmail.com"><img src="https://img.shields.io/badge/-@akler5291-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/_ahmad_khan78/"><img src="https://img.shields.io/badge/-@ahmadkhan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
  </p>

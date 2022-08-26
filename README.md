@@ -45,10 +45,10 @@
         <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
     </td>
      <td align='center'>
-        <img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png">
+        <img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png "width="80">
     </td>
     <td align='center'>
-        <img src="https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png">
+        <img src="https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png" width="80">
     </td>
 </tr>
     

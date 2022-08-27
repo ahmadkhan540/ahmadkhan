@@ -3,7 +3,7 @@
     <h1> Hi there, I'm Ahmad Khan👋<a href="#"></h1>
   </div>
 <p align="center">
-<a href="https://github.com/ahmadkhan540"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist;&center=true&width=500&height=50"></a>
+<a href="https://github.com/ahmadkhan540"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;***Data+Scientist***;&center=true&width=500&height=50"></a>
 
 ### I'm a Python Developer
 - 🌱 I’m currently expanding my knowledge in DataScience.
@@ -62,18 +62,6 @@
  
 <br>
 
-
-## Personal Projects
-
-|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  | Last Commit 🚩
-|-------------|-------------------|---|---| ----|
-| [**Meeting Summarization**](https://github.com/saadfareed/transcript_summary) | [![GitHub issues](https://img.shields.io/github/issues/saadfareed/transcript_summary?color=green&logo=github&style=flat)](https://github.com/saadfareed/transcript_summary/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/transcript_summary?style=flat&logo=github)](https://github.com/saadfareed/transcript_summary/pulls)  | [![GitHtiub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/transcript_summary?style=flat&color=critical&logo=github)](https://github.com/saadfareed/transcript_summary/pulls?q=is%3Apr+is%3Aclosed)  |[![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/transcript_summary?color=blue&logo=github&style=flat)](https://github.com/saadfareed/transcript_summary/commits/) |
-| [**Github Profile**](https://github.com/saadfareed/saadfareed) | [![GitHub issues](https://img.shields.io/github/issues/saadfareed/saadfareed?color=green&logo=github&style=flat)](https://github.com/saadfareed/saadfareed/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/saadfareed?style=flat&logo=github)](https://github.com/saadfareed/saadfareed/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/saadfareed?style=flat&color=critical&logo=github)](https://github.com/saadfareed/saadfareed/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/saadfareed?color=blue&logo=github&style=flat)](https://github.com/saadfareed/saadfareed/commits/) |
-| [**Certificate Generator**](https://github.com/saadfareed/Certificate_generator) | [![GitHub issues](https://img.shields.io/github/issues/saadfareed/Certificate_generator?color=green&logo=github&style=flat)](https://github.com/saadfareed/Certificate_generator/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/Certificate_generator?style=flat&logo=github)](https://github.com/saadfareed/Certificate_generator/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/Certificate_generator?style=flat&color=critical&logo=github)](https://github.com/saadfareed/Certificate_generator/pulls?q=is%3Apr+is%3Aclosed)   | [![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/Certificate_generator?color=blue&logo=github&style=flat)](https://github.com/saadfareed/Certificate_generator/commits/)|
-| [**Leetcode Practice**](https://github.com/saadfareed/Leetcode) | [![GitHub issues](https://img.shields.io/github/issues/saadfareed/Leetcode?color=green&logo=github&style=flat)](https://github.com/saadfareed/Leetcode/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/saadfareed/Leetcode?style=flat&logo=github)](https://github.com/saadfareed/Leetcode/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/saadfareed/Leetcode?style=flat&color=critical&logo=github)](https://github.com/saadfareed/Leetcode/pulls?q=is%3Apr+is%3Aclosed)   |[![GitHub last commit](https://img.shields.io/github/last-commit/saadfareed/Leetcode?color=blue&logo=github&style=flat)](https://github.com/saadfareed/Leetcode/commits/) |
-
-	
- 
  <h2>GitHub Analytics
  </h2>
 

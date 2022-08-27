@@ -98,7 +98,7 @@
 <br>
 <h2 >🏆 GitHub Profile Trophy</h2>
 <p>
-<a href="https://github.com/ahmadkhan">
+<a href="https://github.com/ahmadkhan540/ahmadkhan/">
   <img src="https://github-profile-trophy.vercel.app/?username=ahmadkhan&theme=matrix&column=8&margin-w=15&margin-h=15"/>
 
 </a>
